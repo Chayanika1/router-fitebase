@@ -1,0 +1,10 @@
+.header nav a{
+    color:green;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.header nav a:hover{
+    color:red
+}
